@@ -1,0 +1,9 @@
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+ .------.
+ | O  O |
+ |  __  |
+ `------´
+POKER FACE
+EOC
